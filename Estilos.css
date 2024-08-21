@@ -1,0 +1,31 @@
+body {
+    background-color: Navy;
+}
+
+h1 {
+    text-align: justify;
+    color: green;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    font-size: 600;
+}
+
+p {
+    color: white;
+    font-family: "Comic Sans MS", sans-serif;
+    text-align: justify;
+    font-size: 100%;
+}
+
+.text {
+    text-align: justify;
+    color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, monospace;
+    font-size: 200%;
+}
+
+a {
+    color: purple;
+    font-family: "Comic Sans MS", sans-serif;
+    text-align: justify;
+    font-size: 100%;
+}
